@@ -19,12 +19,13 @@ redirect_from:
 
 Hi! I am an AI/ML Research Manager at [S-Lab, Nanyang Technological University](https://www.ntu.edu.sg/s-lab), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my B.Eng. in Computer Science from NTU in 2024 with **First Class Honours (Highest Distinction)**.
 
-My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation). I have published papers at top venues including CVPR and NAACL, with total <a href='https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ'><img src="https://img.shields.io/badge/citations-498-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a> on Google Scholar.
+My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation). I have published papers at top venues including CVPR, ACL, and NAACL, with total <a href='https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ'><img src="https://img.shields.io/badge/citations-498-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a> on Google Scholar.
 
 My work has been widely adopted across the AI community, including by **OpenAI**, **Google DeepMind**, **Alibaba**, **ByteDance**, and many other leading AI labs.
 
 
 # News
+- *2026.04*: &nbsp; One paper accepted to **ACL 2026 Main Conference** (Video-MMMU).
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** (OpenMMReasoner).
 - *2025.06*: &nbsp; One paper accepted to **Findings of NAACL 2025** (LMMs-Eval).
 - *2025.01*: &nbsp; Released **Video-MMMU** benchmark -- the only video benchmark featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
@@ -33,30 +34,30 @@ My work has been widely adopted across the AI community, including by **OpenAI**
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://arxiv.org/abs/2503.21631)
-
-Kaichen Zhang, ..., **Kairui Hu**, et al.
-
-[**[arXiv]**](https://arxiv.org/abs/2503.21631) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)
-
-**TL;DR:** An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos](https://arxiv.org/abs/2501.13826)
 
-**Kairui Hu**, et al.
+**Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Yuanhan Zhang, Xiang Yue, Bo Li, Ziwei Liu
 
 [**[arXiv]**](https://arxiv.org/abs/2501.13826) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
 
 **TL;DR:** The first video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Adopted by Google DeepMind (Gemini), OpenAI (GPT-5), Alibaba (Qwen), ByteDance (Seed), and many others. The **only video benchmark** in the official releases of OpenAI GPT-5 and Google Gemini 3.0.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://arxiv.org/abs/2511.16334)
+
+Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu, Xingxuan Li, Lidong Bing
+
+[**[arXiv]**](https://arxiv.org/abs/2511.16334) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)
+
+**TL;DR:** An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
 </div>
 </div>
 
@@ -66,7 +67,7 @@ Kaichen Zhang, ..., **Kairui Hu**, et al.
 
 [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://arxiv.org/abs/2407.12772)
 
-Kaichen Zhang, ..., **Kairui Hu**, et al.
+Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui Hu**, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
 
 [**[arXiv]**](https://arxiv.org/abs/2407.12772) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/lmms-eval)
 
