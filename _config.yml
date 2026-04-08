@@ -1,86 +1,154 @@
-title: Kairui Hu
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://kairuihu.github.io/
+# Site Settings
+title                    : "Kairui Hu"
+description              : "AI/ML Research Manager at NTU S-Lab. Research in Agent Systems and Foundation Models."
+repository               : "KairuiHu/kairuihu.github.io"
+google_scholar_stats_use_cdn : true
 
-# Owner/author information
-owner:
-  name: Kairui Hu
-  avatar: Kairui_bio.jpg
-  # bio: Two roads diverged in woods, I took the one less traveled by.
-  email: kairuih12@gmail.com
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: kairuicarry
-  github: KairuiHu
-  linkedin: kairuihu
-  scholar: https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ&hl=en
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+# google analytics
+google_analytics_id      :
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
+# Site Author
+author:
+  name             : "Kairui Hu"
+  avatar           : "images/profile.jpg"
+  bio              : "NTU S-Lab"
+  location         : "Singapore"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ"
+  email            : "HUKA0001@e.ntu.edu.sg"
+  researchgate     :
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About Me
-    url: /
-  # - title: Teams
-  #   url: /teams/
-  # - title: Publications
-  #   url: /publications/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "KairuiHu"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         : "kairuihu"
+  dblp             :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
-future: true
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - docs
+  - google_scholar_crawler
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .github
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-
+# Markdown Processing
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
 
 
-# disqus settings:
-disqus:
-  shortname: kairuihu
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Outputting
+permalink: /:categories/:title/
+timezone: Asia/Singapore
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
