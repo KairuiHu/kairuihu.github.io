@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am an AI/ML Research Manager at [S-Lab, Nanyang Technological University](https://www.ntu.edu.sg/s-lab), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my B.Eng. in Computer Science from NTU in 2024 with **First Class Honours (Highest Distinction)**.
 
-My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation). I have published papers at top venues including CVPR and NAACL, with total <a href='https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ'><img src="https://img.shields.io/badge/citations-474-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a> on Google Scholar.
+My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation). I have published papers at top venues including CVPR and NAACL, with total <a href='https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ'><img src="https://img.shields.io/badge/citations-498-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a> on Google Scholar.
 
 My work has been widely adopted across the AI community, including by **OpenAI**, **Google DeepMind**, **Alibaba**, **ByteDance**, and many other leading AI labs.
 
