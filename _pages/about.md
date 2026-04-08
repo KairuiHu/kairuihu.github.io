@@ -28,9 +28,9 @@ My work has been widely adopted across the AI community, including by **OpenAI**
 - *2026.04*: &nbsp; One paper accepted to **ACL 2026 Main Conference** (Video-MMMU).
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** (OpenMMReasoner).
 - *2025.06*: &nbsp; One paper accepted to **Findings of NAACL 2025** (LMMs-Eval).
-- *2025.01*: &nbsp; Released **Video-MMMU** benchmark -- the only video benchmark featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
+- *2025.01*: &nbsp; Released **Video-MMMU** benchmark, featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
 - *2024.08*: &nbsp; Joined **NTU S-Lab** as AI/ML Research Manager.
-- *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**, GPA: 4.83/5.
+- *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
 
 # Selected Publications
 
@@ -43,7 +43,7 @@ My work has been widely adopted across the AI community, including by **OpenAI**
 
 [**[arXiv]**](https://arxiv.org/abs/2501.13826) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
 
-**TL;DR:** The first video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Adopted by Google DeepMind (Gemini), OpenAI (GPT-5), Alibaba (Qwen), ByteDance (Seed), and many others. The **only video benchmark** in the official releases of OpenAI GPT-5 and Google Gemini 3.0.
+**TL;DR:** A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
 </div>
 </div>
 
