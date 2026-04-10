@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an AI/ML Research Manager at [S-Lab, Nanyang Technological University](https://www.ntu.edu.sg/s-lab), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my B.Eng. in Computer Science from NTU in 2024 with **First Class Honours (Highest Distinction)**.
+Hi! I am an AI/ML Research Manager at [S-Lab, Nanyang Technological University](https://www.ntu.edu.sg/s-lab), supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I received my B.Eng. in Computer Science from NTU in 2024 with First Class Honours (Highest Distinction).
 
-My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation). I have published papers at top venues including CVPR, ACL, and NAACL, with total <a href='https://scholar.google.com.sg/citations?user=_oHHACwAAAAJ'><img src="https://img.shields.io/badge/citations-498-blue?logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat"></a> on Google Scholar.
-
-My work has been widely adopted across the AI community, including by **OpenAI**, **Google DeepMind**, **Alibaba**, **ByteDance**, and many other leading AI labs.
+My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation).
 
 
 # News
