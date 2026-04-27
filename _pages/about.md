@@ -30,7 +30,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 [Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos](https://arxiv.org/abs/2501.13826)
 
-**Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Yuanhan Zhang, Xiang Yue, Bo Li, Ziwei Liu
+**Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
 [**[arXiv]**](https://arxiv.org/abs/2501.13826) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
 
