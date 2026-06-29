@@ -28,7 +28,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos](https://arxiv.org/abs/2501.13826)
+[Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos](https://arxiv.org/abs/2501.13826)
 
 **Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
