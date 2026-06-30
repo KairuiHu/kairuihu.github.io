@@ -25,8 +25,8 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://cvpr.thecvf.com/virtual/2026/poster/38636)).
 - *2026.01*: &nbsp; New blog post at **Synvo AI** — [*The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*](https://synvo.ai/blog/digital-avalanche.html).
 - *2025.04*: &nbsp; [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1) — our first generation of lightweight audio models, outperforming Whisper and Qwen-2-Audio.
-- *2025.01*: &nbsp; Released the [**Video-MMMU**](https://aclanthology.org/2026.acl-long.1281/) benchmark — featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
-- *2025.01*: &nbsp; [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) accepted to **NAACL 2025** Findings.
+- *2025.01*: &nbsp; Released the [**Video-MMMU**](https://videommmu.github.io/) benchmark — selected as the only video benchmark in the official public releases of [**OpenAI GPT-5**](https://openai.com/index/introducing-gpt-5/) and [**Google Gemini 3.0 & 3.1**](https://blog.google/products-and-platforms/products/gemini/gemini-3/#gemini-3-deep-think).
+- *2025.01*: &nbsp; [**LMMs-Eval**](https://aclanthology.org/2025.findings-naacl.51/) accepted to **NAACL 2025** Findings.
 - *2025.01*: &nbsp; Joined **Synvo AI** as a Founding Team Member.
 - *2024.08*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
 - *2024.07*: &nbsp; Released [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) — a comprehensive benchmark for evaluating Large Multimodal Models.
