@@ -16,19 +16,21 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 
 # News
+<div class="news-scroll" markdown="1">
 - *2026.04*: &nbsp; One paper accepted to **ACL 2026 Main Conference** (Video-MMMU).
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** (OpenMMReasoner).
 - *2025.06*: &nbsp; One paper accepted to **Findings of NAACL 2025** (LMMs-Eval).
 - *2025.01*: &nbsp; Released **Video-MMMU** benchmark, featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
 - *2024.05*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
 - *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
+</div>
 
 # Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos](https://aclanthology.org/2026.acl-long.1281/)
+[**Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos**](https://aclanthology.org/2026.acl-long.1281/)
 
 **Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
@@ -44,7 +46,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://cvpr.thecvf.com/virtual/2026/poster/38636)
+[**OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**](https://cvpr.thecvf.com/virtual/2026/poster/38636)
 
 Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu, Xingxuan Li, Lidong Bing
 
@@ -60,7 +62,7 @@ Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://aclanthology.org/2025.findings-naacl.51/)
+[**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**](https://aclanthology.org/2025.findings-naacl.51/)
 
 Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui Hu**, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
 
@@ -90,7 +92,7 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 <span class="exp-meta">May 2024 – Present</span>
 
 - Core member of a non-profit initiative democratizing Large Multimodal Models.
-- Led or participated in the development of [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), [Video-MMMU](https://videommmu.github.io/), [OpenMMReasoner](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner), and [Aero-1-Audio](https://github.com/EvolvingLMMs-Lab/Aero-1).
+- Led or participated in the development of [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval), [**Video-MMMU**](https://videommmu.github.io/), [**OpenMMReasoner**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner), and [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1).
 
 # Honors and Awards
 - *2024*: NTU Information Technology Management Association (ITMA) [**Gold Medal**](https://www.ntu.edu.sg/computing/news-events/news/detail/convocation-2024-medal-award-winners-feature) cum Book Prize
