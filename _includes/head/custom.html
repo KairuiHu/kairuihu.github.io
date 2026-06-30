@@ -22,29 +22,48 @@
 
 <!-- FontAwesome 6 (for the X / x-twitter logo) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous">
+<!-- Source Sans (cleaner, shulin16-like typography) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 
-<!-- Custom color scheme (warm palette: brown headings, olive-green links, crimson badge) -->
 <style>
-  :root{
-    --kh-title:#684e43;       /* warm brown */
-    --kh-link:#7e9150;        /* olive green */
-    --kh-link-hover:#8e6e29;  /* mustard */
-    --kh-highlight:#b6274e;   /* crimson */
+  /* Typography — cleaner, shulin16-like (colors left at theme default) */
+  body, .page__content {
+    font-family: "Source Sans 3", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
-  .page__content h1,
-  .page__content h2,
-  .page__content h3,
-  .archive__item-title,
-  .author__name { color: var(--kh-title); }
+  .page__content { font-size: 0.95rem; line-height: 1.6; }
+  .page__content h1 { font-size: 1.5rem; font-weight: 700; margin: 1.5em 0 0.55em; }
+  .page__content h1:first-of-type { margin-top: 0.3em; }
+  .author__name { font-weight: 700; }
 
-  .page__content a,
-  .page__content a:visited { color: var(--kh-link); }
-  .page__content a:hover { color: var(--kh-link-hover); }
+  /* No underlines on content links */
+  .page__content a, .page__content a:hover { text-decoration: none; }
 
-  .author__urls a { color: var(--kh-link); }
-  .author__urls a:hover { color: var(--kh-link-hover); }
+  /* Conference venue written separately (no badge on the image) */
+  .paper-box-text .pub-venue {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #5a6b7b;
+    letter-spacing: 0.01em;
+    margin: 0.25em 0;
+  }
 
-  .badge { background-color: var(--kh-highlight) !important; }
+  /* Paper / Project / GitHub as clean pill buttons (iOS-like), spacious, no underline */
+  .paper-box-text .pub-links { margin: 0.35em 0 0.2em; }
+  .paper-box-text .pub-links a {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 3px 13px;
+    margin: 0 7px 7px 0;
+    border-radius: 7px;
+    background: #f1f1f4;
+    color: #444;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .paper-box-text .pub-links a:hover { background: #e4e4ea; color: #111; }
 </style>
 
 <!-- end custom head snippets -->

@@ -25,42 +25,48 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 # Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos](https://aclanthology.org/2026.acl-long.1281/)
 
 **Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
-[**[Paper]**](https://aclanthology.org/2026.acl-long.1281/) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
+<p class="pub-venue">ACL 2026 (Main)</p>
+
+<p class="pub-links"><a href="https://aclanthology.org/2026.acl-long.1281/">Paper</a> <a href="https://videommmu.github.io/">Project</a> <a href="https://github.com/EvolvingLMMs-Lab/VideoMMMU">GitHub</a></p>
 
 **TL;DR:** A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://cvpr.thecvf.com/virtual/2026/poster/38636)
 
 Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu, Xingxuan Li, Lidong Bing
 
-[**[Paper]**](https://cvpr.thecvf.com/virtual/2026/poster/38636) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)
+<p class="pub-venue">CVPR 2026</p>
+
+<p class="pub-links"><a href="https://cvpr.thecvf.com/virtual/2026/poster/38636">Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/OpenMMReasoner">GitHub</a></p>
 
 **TL;DR:** An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://aclanthology.org/2025.findings-naacl.51/)
 
 Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui Hu**, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
 
-[**[Paper]**](https://aclanthology.org/2025.findings-naacl.51/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+<p class="pub-venue">NAACL 2025 (Findings)</p>
+
+<p class="pub-links"><a href="https://aclanthology.org/2025.findings-naacl.51/">Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/lmms-eval">GitHub</a></p>
 
 **TL;DR:** A unified evaluation framework supporting 100+ tasks across text, image, video, and audio for 30+ multimodal models. 3.8k+ GitHub stars. Widely adopted across the GenAI community for model development and benchmarking.
 </div>
@@ -74,7 +80,7 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 - *2019-2024*: NTU Science and Engineering Undergraduate **Scholarship** (SM2), Ministry of Education Singapore
 
 # Education
-- *2020.08 - 2024.06*, B.Eng. in Computer Science, **Nanyang Technological University**, Singapore. GPA: 4.83/5 (First Class Honours, Highest Distinction).
+- *2020.08 - 2024.06*, B.Eng. in Computer Science, **Nanyang Technological University**, Singapore. First Class Honours (Highest Distinction).
 
 # Miscellaneous
 - 🎹 &nbsp; I love music — I play piano and guitar, and I'm a fan of Chinese folk music, especially Zhao Lei.
