@@ -19,6 +19,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 # News
 <div class="news-scroll" markdown="1">
+- *2026.06*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is accepted to **ECCV 2026**. Congrats to all coauthors!
 - *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://aclanthology.org/2026.acl-long.1281/)).
 - *2026.03*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is out — we collected 3 real people's entire digital lives to build the first file-system memory dataset.
 - *2026.02*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
@@ -45,7 +46,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 <p class="pub-venue">ACL 2026 (Main)</p>
 
-<p class="pub-links"><a href="https://aclanthology.org/2026.acl-long.1281/">Paper</a> <a href="https://videommmu.github.io/">Project</a> <a href="https://github.com/EvolvingLMMs-Lab/VideoMMMU">GitHub</a></p>
+<p class="pub-links"><a href="https://aclanthology.org/2026.acl-long.1281/">Paper</a> <a href="https://videommmu.github.io/">Project</a> <a href="https://github.com/EvolvingLMMs-Lab/VideoMMMU">GitHub</a> <a href="https://huggingface.co/datasets/lmms-lab/VideoMMMU">🤗 Data</a></p>
 
 **TL;DR:** A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
 </div>
@@ -68,6 +69,38 @@ Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu,
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/hippocamp.png' alt="HippoCamp" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**HippoCamp: Benchmarking Contextual Agents on Personal Computers**](https://hippocamp-ai.github.io/)
+
+Zhe Yang, Shulin Tian, **Kairui Hu**, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zujin Guo, Mengying Yu, Zinan Zhang, Jingkang Yang, Chen Change Loy, Ziwei Liu
+
+<p class="pub-venue">ECCV 2026</p>
+
+<p class="pub-links"><a href="https://arxiv.org/abs/2604.01221">Paper</a> <a href="https://hippocamp-ai.github.io/">Project</a> <a href="https://github.com/synvo-ai/HippoCamp">Code</a> <a href="https://huggingface.co/datasets/MMMem-org/HippoCamp">🤗 Data</a></p>
+
+**TL;DR:** A benchmark for contextual agents on personal computers, built from three real users' complete digital lives — the first file-system memory dataset.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/filegram.png' alt="FileGram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FileGram: Grounding Agent Personalization in File-System Behavioral Traces**](https://filegram.choiszt.com/)
+
+Shuai Liu, Shulin Tian, **Kairui Hu**, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy, Ziwei Liu
+
+<p class="pub-venue">arXiv 2026</p>
+
+<p class="pub-links"><a href="https://arxiv.org/abs/2604.04901">Paper</a> <a href="https://filegram.choiszt.com/">Project</a> <a href="https://github.com/Synvo-ai/FileGram">Code</a> <a href="https://huggingface.co/datasets/Choiszt/FileGram">🤗 Data</a></p>
+
+**TL;DR:** Grounding agent personalization in file-system behavioral traces — a privacy-first AI memory layer learned from how you actually use your files.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -83,6 +116,19 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 </div>
 </div>
 
+
+# Software
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/local_cocoa.png' alt="Local Cocoa" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Local Cocoa**](https://github.com/synvo-ai/local-cocoa)
+
+<p class="pub-links"><a href="https://github.com/synvo-ai/local-cocoa">Code</a> <a href="https://www.synvo.ai/">Website</a></p>
+
+**TL;DR:** A privacy-focused local AI assistant that turns your files into searchable semantic memory — running entirely on your device.
+</div>
+</div>
 
 # Experience
 
