@@ -19,18 +19,18 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 # News
 <div class="news-scroll" markdown="1">
-- *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://videommmu.github.io/)).
+- *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://aclanthology.org/2026.acl-long.1281/)).
 - *2026.03*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is out — we collected 3 real people's entire digital lives to build the first file-system memory dataset.
 - *2026.02*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
-- *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://evolvinglmms-lab.github.io/OpenMMReasoner/)).
-- *2026.01*: &nbsp; New blog post at **Synvo AI** — *The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*.
+- *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://cvpr.thecvf.com/virtual/2026/poster/38636)).
+- *2026.01*: &nbsp; New blog post at **Synvo AI** — [*The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*](https://synvo.ai/blog/digital-avalanche.html).
 - *2025.04*: &nbsp; [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1) — our first generation of lightweight audio models, outperforming Whisper and Qwen-2-Audio.
-- *2025.01*: &nbsp; Released the [**Video-MMMU**](https://videommmu.github.io/) benchmark — featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
-- *2025.01*: &nbsp; **LMMs-Eval** accepted to **NAACL 2025** Findings.
+- *2025.01*: &nbsp; Released the [**Video-MMMU**](https://aclanthology.org/2026.acl-long.1281/) benchmark — featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
+- *2025.01*: &nbsp; [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) accepted to **NAACL 2025** Findings.
 - *2025.01*: &nbsp; Joined **Synvo AI** as a Founding Team Member.
 - *2024.08*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
 - *2024.07*: &nbsp; Released [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) — a comprehensive benchmark for evaluating Large Multimodal Models.
-- *2024.06*: &nbsp; Led the release of **lmms-eval v0.2.0** to support video evaluations — see [blog](https://github.com/lmms-lab/old-blog/blob/main/content/posts/lmms-eval-0.2.md).
+- *2024.06*: &nbsp; Led the release of [**lmms-eval v0.2.0**](https://github.com/lmms-lab/old-blog/blob/main/content/posts/lmms-eval-0.2.md) to support video evaluations.
 - *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
 </div>
 
@@ -39,7 +39,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos**](https://aclanthology.org/2026.acl-long.1281/)
+[**Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos**](https://videommmu.github.io/)
 
 **Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
@@ -55,7 +55,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**](https://cvpr.thecvf.com/virtual/2026/poster/38636)
+[**OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe**](https://evolvinglmms-lab.github.io/OpenMMReasoner/)
 
 Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu, Xingxuan Li, Lidong Bing
 
@@ -71,7 +71,7 @@ Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu,
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**](https://aclanthology.org/2025.findings-naacl.51/)
+[**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**](https://github.com/EvolvingLMMs-Lab/lmms-eval)
 
 Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui Hu**, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
 
