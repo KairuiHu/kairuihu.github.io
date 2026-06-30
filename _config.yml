@@ -1,6 +1,6 @@
 # Site Settings
 title                    : "Kairui Hu"
-description              : "AI/ML Research Manager at NTU S-Lab. Research in Agent Systems and Foundation Models."
+description              : "Research in Agent Systems and Foundation Models."
 repository               : "KairuiHu/kairuihu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -16,7 +16,7 @@ baidu_site_verification  :
 author:
   name             : "Kairui Hu"
   avatar           : "images/profile.jpg"
-  bio              : "Incoming PhD @ NTU · AI Scientist @ Ropedia"
+  bio              : "Incoming PhD @ NTU<br>AI Scientist @ Ropedia"
   location         : "Singapore"
   employer         :
   pubmed           :

@@ -74,9 +74,23 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 
 
 # Experience
-- **Research Staff**, MMLab@NTU &nbsp;·&nbsp; *May 2024 – Jul 2026*<br>Supervised by Prof. Ziwei Liu and Prof. Chen Change Loy. Multimodal language models, video understanding, benchmarking and evaluation.
-- **Founding Engineer**, Synvo AI, Singapore &nbsp;·&nbsp; *Jan 2025 – Jul 2026*<br>Architected and implemented the Synvo File System for agentic multimodal file-system search and reasoning. Built **Local Cocoa**, a local AI assistant running on your device that turns your files into actionable memory.
-- **Core Member**, LMMs-Lab, Singapore &nbsp;·&nbsp; *May 2024 – Present*<br>Core member of a non-profit initiative democratizing Large Multimodal Models. Led or participated in the development of LMMs-Eval, Video-MMMU, OpenMMReasoner, and Aero-1-Audio.
+
+**Research Staff**, MMLab@NTU<br>
+<span class="exp-meta">Supervised by Prof. Ziwei Liu and Prof. Chen Change Loy &nbsp;·&nbsp; May 2024 – Jul 2026</span>
+
+- Multimodal language models, video understanding, benchmarking and evaluation.
+
+**Founding Engineer**, Synvo AI, Singapore<br>
+<span class="exp-meta">Jan 2025 – Jul 2026</span>
+
+- Architected and implemented the **Synvo File System** for agentic multimodal file-system search and reasoning.
+- Built **Local Cocoa**, a local AI assistant running on your device that turns your files into actionable memory.
+
+**Core Member**, LMMs-Lab, Singapore<br>
+<span class="exp-meta">May 2024 – Present</span>
+
+- Core member of a non-profit initiative democratizing Large Multimodal Models.
+- Led or participated in the development of LMMs-Eval, Video-MMMU, OpenMMReasoner, and Aero-1-Audio.
 
 # Honors and Awards
 - *2024*: NTU Information Technology Management Association (ITMA) [**Gold Medal**](https://www.ntu.edu.sg/computing/news-events/news/detail/convocation-2024-medal-award-winners-feature) cum Book Prize
