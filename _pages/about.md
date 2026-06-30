@@ -28,11 +28,11 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/videommmu.png' alt="Video-MMMU" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos](https://arxiv.org/abs/2501.13826)
+[Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos](https://aclanthology.org/2026.acl-long.1281/)
 
 **Kairui Hu**, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
 
-[**[arXiv]**](https://arxiv.org/abs/2501.13826) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
+[**[Paper]**](https://aclanthology.org/2026.acl-long.1281/) [**[Project]**](https://videommmu.github.io/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/VideoMMMU)
 
 **TL;DR:** A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
 </div>
@@ -42,11 +42,11 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/openmmreasoner.png' alt="OpenMMReasoner" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://arxiv.org/abs/2511.16334)
+[OpenMMReasoner: Pushing the Frontiers for Multimodal Reasoning with an Open and General Recipe](https://cvpr.thecvf.com/virtual/2026/poster/38636)
 
 Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu, Xingxuan Li, Lidong Bing
 
-[**[arXiv]**](https://arxiv.org/abs/2511.16334) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)
+[**[Paper]**](https://cvpr.thecvf.com/virtual/2026/poster/38636) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner)
 
 **TL;DR:** An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
 </div>
@@ -56,11 +56,11 @@ Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/lmms_eval.png' alt="LMMs-Eval" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://arxiv.org/abs/2407.12772)
+[LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models](https://aclanthology.org/2025.findings-naacl.51/)
 
 Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui Hu**, Shuai Liu, Yuanhan Zhang, Jingkang Yang, Chunyuan Li, Ziwei Liu
 
-[**[arXiv]**](https://arxiv.org/abs/2407.12772) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+[**[Paper]**](https://aclanthology.org/2025.findings-naacl.51/) [**[GitHub]**](https://github.com/EvolvingLMMs-Lab/lmms-eval)
 
 **TL;DR:** A unified evaluation framework supporting 100+ tasks across text, image, video, and audio for 30+ multimodal models. 3.8k+ GitHub stars. Widely adopted across the GenAI community for model development and benchmarking.
 </div>
@@ -68,10 +68,16 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 
 
 # Honors and Awards
-- *2024*: NTU Information Technology Management Association (ITMA) **Gold Medal** cum Book Prize
+- *2024*: NTU Information Technology Management Association (ITMA) [**Gold Medal**](https://www.ntu.edu.sg/computing/news-events/news/detail/convocation-2024-medal-award-winners-feature) cum Book Prize
 - *2022, 2023*: NTU **President Research Scholar** (with Merit), URECA Undergraduate Research Programme
 - *2020-2022*: **Dean's List** (Top 5%), College of Computing and Data Science, NTU
 - *2019-2024*: NTU Science and Engineering Undergraduate **Scholarship** (SM2), Ministry of Education Singapore
 
 # Education
 - *2020.08 - 2024.06*, B.Eng. in Computer Science, **Nanyang Technological University**, Singapore. GPA: 4.83/5 (First Class Honours, Highest Distinction).
+
+# Miscellaneous
+- 🎹 &nbsp; I love music — I play piano and guitar, and I'm a fan of Chinese folk music, especially Zhao Lei.
+- 🎵 &nbsp; I'm genuinely into music creation and songwriting.
+- 🏀 &nbsp; Sports & games: basketball, badminton, and League of Legends.
+- 🧗 &nbsp; Currently learning bouldering and surfing — still very much a rookie!

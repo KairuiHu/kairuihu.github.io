@@ -20,4 +20,31 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- FontAwesome 6 (for the X / x-twitter logo) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous">
+
+<!-- Custom color scheme (warm palette: brown headings, olive-green links, crimson badge) -->
+<style>
+  :root{
+    --kh-title:#684e43;       /* warm brown */
+    --kh-link:#7e9150;        /* olive green */
+    --kh-link-hover:#8e6e29;  /* mustard */
+    --kh-highlight:#b6274e;   /* crimson */
+  }
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .archive__item-title,
+  .author__name { color: var(--kh-title); }
+
+  .page__content a,
+  .page__content a:visited { color: var(--kh-link); }
+  .page__content a:hover { color: var(--kh-link-hover); }
+
+  .author__urls a { color: var(--kh-link); }
+  .author__urls a:hover { color: var(--kh-link-hover); }
+
+  .badge { background-color: var(--kh-highlight) !important; }
+</style>
+
 <!-- end custom head snippets -->
