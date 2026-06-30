@@ -83,14 +83,14 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 **Founding Engineer**, Synvo AI, Singapore<br>
 <span class="exp-meta">Jan 2025 – Jul 2026</span>
 
-- Architected and implemented the **Synvo File System** for agentic multimodal file-system search and reasoning.
-- Built **Local Cocoa**, a local AI assistant running on your device that turns your files into actionable memory.
+- Architected and implemented agentic file system search and reasoning.
+- [**Local Cocoa**](https://github.com/synvo-ai/Local-Cocoa): a local AI assistant running on your device that turns your files into actionable memory.
 
 **Core Member**, LMMs-Lab, Singapore<br>
 <span class="exp-meta">May 2024 – Present</span>
 
 - Core member of a non-profit initiative democratizing Large Multimodal Models.
-- Led or participated in the development of LMMs-Eval, Video-MMMU, OpenMMReasoner, and Aero-1-Audio.
+- Led or participated in the development of [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval), [Video-MMMU](https://videommmu.github.io/), [OpenMMReasoner](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner), and [Aero-1-Audio](https://github.com/EvolvingLMMs-Lab/Aero-1).
 
 # Honors and Awards
 - *2024*: NTU Information Technology Management Association (ITMA) [**Gold Medal**](https://www.ntu.edu.sg/computing/news-events/news/detail/convocation-2024-medal-award-winners-feature) cum Book Prize
