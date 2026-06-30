@@ -14,7 +14,7 @@ I am Kairui Hu, currently an AI Scientist at [Ropedia](https://ropedia.com/) and
 
 I was a Founding Team Member at [Synvo AI](https://synvo.ai/). Prior to this, I was a Core Contributor at [LMMs-Lab](https://www.lmms-lab.com/), where I was on an exciting journey towards Large Multimodal Models and feeling the AGI. I have received kind and valuable guidance from [Yuanhan Zhang](https://zhangyuanhan-ai.github.io/), [Bo Li](https://www.brianboli.com/inside/), and [Jingkang Yang](https://jingkangyang.com/). I received my B.Eng. in Computer Science from Nanyang Technological University in 2024 with First Class Honours (Highest Distinction).
 
-My research focuses on **agents**, **multimodal models**, and **egocentric AI**.
+My research focuses on agents, multimodal models, and egocentric AI.
 
 📧 &nbsp; Feel free to reach me at [HUKA0001@e.ntu.edu.sg](mailto:HUKA0001@e.ntu.edu.sg).
 
@@ -22,16 +22,16 @@ My research focuses on **agents**, **multimodal models**, and **egocentric AI**.
 # News
 <div class="news-scroll" markdown="1">
 - *2026.06*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is accepted to **ECCV 2026**. Congrats to all coauthors!
-- *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://aclanthology.org/2026.acl-long.1281/)).
+- *2026.04*: &nbsp; [**Video-MMMU**](https://aclanthology.org/2026.acl-long.1281/) is accepted to **ACL 2026** Main Conference.
 - *2026.04*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
 - *2026.03*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is out — we collected 3 real people's entire digital lives to build the first file-system memory dataset.
-- *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://cvpr.thecvf.com/virtual/2026/poster/38636)).
+- *2026.02*: &nbsp; [**OpenMMReasoner**](https://cvpr.thecvf.com/virtual/2026/poster/38636) is accepted to **CVPR 2026**.
 - *2026.01*: &nbsp; New blog post at **Synvo AI** — [*The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*](https://synvo.ai/blog/digital-avalanche.html).
 - *2025.04*: &nbsp; [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1) — our first generation of lightweight audio models, outperforming Whisper and Qwen-2-Audio.
 - *2025.01*: &nbsp; Released the [**Video-MMMU**](https://videommmu.github.io/) benchmark — selected as the only video benchmark in the official public releases of [**OpenAI GPT-5**](https://openai.com/index/introducing-gpt-5/) and [**Google Gemini 3.0 & 3.1**](https://blog.google/products-and-platforms/products/gemini/gemini-3/#gemini-3-deep-think).
 - *2025.01*: &nbsp; [**LMMs-Eval**](https://aclanthology.org/2025.findings-naacl.51/) accepted to **NAACL 2025** Findings.
-- *2025.01*: &nbsp; Joined **Synvo AI** as a Founding Team Member.
-- *2024.08*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
+- *2025.01*: &nbsp; Joined [**Synvo AI**](https://synvo.ai/) as a Founding Team Member.
+- *2024.08*: &nbsp; Joined [**MMLab@NTU**](https://www.mmlab-ntu.com/) as a Research Staff.
 - *2024.07*: &nbsp; Released [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) — a comprehensive benchmark for evaluating Large Multimodal Models.
 - *2024.06*: &nbsp; Led the release of [**lmms-eval v0.2.0**](https://github.com/lmms-lab/old-blog/blob/main/content/posts/lmms-eval-0.2.md) to support video evaluations.
 - *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
@@ -112,7 +112,7 @@ A One-for-All Multimodal Evaluation Toolkit across Text, Image, Video, and Audio
 
 Shuai Liu, Shulin Tian, **Kairui Hu**, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy, Ziwei Liu
 
-<p class="pub-venue">Preprint, arXiv 2026</p>
+<p class="pub-venue">arXiv 2026</p>
 
 <p class="pub-links"><a href="https://arxiv.org/abs/2604.04901"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://filegram.choiszt.com/"><i class="fa-solid fa-globe"></i> Project</a> <a href="https://github.com/Synvo-ai/FileGram"><i class="fa-brands fa-github"></i> Code</a> <a href="https://huggingface.co/datasets/Choiszt/FileGram">🤗 Data</a></p>
 
@@ -164,5 +164,5 @@ A privacy-focused local AI assistant that turns your files into searchable seman
 # Miscellaneous
 - 🎹 &nbsp; I love music — I play piano and guitar, and I'm a fan of Chinese folk music, especially Zhao Lei.
 - 🎵 &nbsp; I'm genuinely into music creation and songwriting.
-- 🏀 &nbsp; Sports: basketball and badminton.
+- 🏀 &nbsp; Sports: basketball, badminton, marathon, and swimming.
 - 🧗 &nbsp; Currently learning bouldering and surfing — still very much a rookie!
