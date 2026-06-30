@@ -14,14 +14,23 @@ Hi! I am an incoming PhD student at [Nanyang Technological University (NTU)](htt
 
 My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation).
 
+📧 &nbsp; Feel free to reach me at [HUKA0001@e.ntu.edu.sg](mailto:HUKA0001@e.ntu.edu.sg).
+
 
 # News
 <div class="news-scroll" markdown="1">
-- *2026.04*: &nbsp; One paper accepted to **ACL 2026 Main Conference** (Video-MMMU).
-- *2026.02*: &nbsp; One paper accepted to **CVPR 2026** (OpenMMReasoner).
-- *2025.06*: &nbsp; One paper accepted to **Findings of NAACL 2025** (LMMs-Eval).
-- *2025.01*: &nbsp; Released **Video-MMMU** benchmark, featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
+- *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://videommmu.github.io/)).
+- *2026.03*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is out — we collected 3 real people's entire digital lives to build the first file-system memory dataset.
+- *2026.02*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
+- *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://evolvinglmms-lab.github.io/OpenMMReasoner/)).
+- *2026.01*: &nbsp; New blog post at **Synvo AI** — *The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*.
+- *2025.04*: &nbsp; [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1) — our first generation of lightweight audio models, outperforming Whisper and Qwen-2-Audio.
+- *2025.01*: &nbsp; Released the [**Video-MMMU**](https://videommmu.github.io/) benchmark — featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
+- *2025.01*: &nbsp; **LMMs-Eval** accepted to **NAACL 2025** Findings.
+- *2025.01*: &nbsp; Joined **Synvo AI** as a Founding Team Member.
 - *2024.08*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
+- *2024.07*: &nbsp; Released [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval) — a comprehensive benchmark for evaluating Large Multimodal Models.
+- *2024.06*: &nbsp; Led the release of **lmms-eval v0.2.0** to support video evaluations — see [blog](https://github.com/lmms-lab/old-blog/blob/main/content/posts/lmms-eval-0.2.md).
 - *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
 </div>
 
