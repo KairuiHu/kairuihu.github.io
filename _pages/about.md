@@ -68,7 +68,7 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 
 <p class="pub-links"><a href="https://aclanthology.org/2025.findings-naacl.51/">Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/lmms-eval">GitHub</a></p>
 
-**TL;DR:** A unified evaluation framework supporting 100+ tasks across text, image, video, and audio for 30+ multimodal models. 3.8k+ GitHub stars. Widely adopted across the GenAI community for model development and benchmarking.
+**TL;DR:** A One-for-All Multimodal Evaluation Toolkit across Text, Image, Video, and Audio tasks — a one-command framework that makes LMM evaluation easier, more convenient, and reproducible. Widely adopted across the GenAI community for model development and benchmarking.
 </div>
 </div>
 
@@ -85,5 +85,5 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 # Miscellaneous
 - 🎹 &nbsp; I love music — I play piano and guitar, and I'm a fan of Chinese folk music, especially Zhao Lei.
 - 🎵 &nbsp; I'm genuinely into music creation and songwriting.
-- 🏀 &nbsp; Sports & games: basketball, badminton, and League of Legends.
+- 🏀 &nbsp; Sports: basketball and badminton.
 - 🧗 &nbsp; Currently learning bouldering and surfing — still very much a rookie!
