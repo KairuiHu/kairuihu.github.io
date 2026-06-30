@@ -21,7 +21,7 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** (OpenMMReasoner).
 - *2025.06*: &nbsp; One paper accepted to **Findings of NAACL 2025** (LMMs-Eval).
 - *2025.01*: &nbsp; Released **Video-MMMU** benchmark, featured in OpenAI GPT-5 and Google Gemini 3.0 official releases.
-- *2024.05*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
+- *2024.08*: &nbsp; Joined **MMLab@NTU** as a Research Staff.
 - *2024.06*: &nbsp; Graduated from NTU with **First Class Honours (Highest Distinction)**.
 </div>
 
@@ -78,7 +78,7 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 # Experience
 
 **Research Staff**, MMLab@NTU<br>
-<span class="exp-meta">Supervised by Prof. Ziwei Liu and Prof. Chen Change Loy &nbsp;·&nbsp; May 2024 – Jul 2026</span>
+<span class="exp-meta">Supervised by Prof. Ziwei Liu and Prof. Chen Change Loy &nbsp;·&nbsp; Aug 2024 – Jul 2026</span>
 
 - Multimodal language models, video understanding, benchmarking and evaluation.
 
@@ -89,7 +89,7 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 - [**Local Cocoa**](https://github.com/synvo-ai/Local-Cocoa): a local AI assistant running on your device that turns your files into actionable memory.
 
 **Core Member**, LMMs-Lab, Singapore<br>
-<span class="exp-meta">May 2024 – Present</span>
+<span class="exp-meta">Aug 2024 – Present</span>
 
 - Core member of a non-profit initiative democratizing Large Multimodal Models.
 - Led or participated in the development of [**LMMs-Eval**](https://github.com/EvolvingLMMs-Lab/lmms-eval), [**Video-MMMU**](https://videommmu.github.io/), [**OpenMMReasoner**](https://github.com/EvolvingLMMs-Lab/OpenMMReasoner), and [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1).
