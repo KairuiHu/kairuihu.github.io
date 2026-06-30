@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an incoming PhD student at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), advised by [Prof. Ziwei Liu](https://liuziwei7.github.io/) and [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/), and an AI Scientist at Ropedia. I received my B.Eng. in Computer Science from NTU in 2024 with First Class Honours (Highest Distinction).
+I am Kairui Hu, currently an AI Scientist at [Ropedia](https://ropedia.com/) and an incoming Ph.D. student (Fall 2026) at [MMLab@NTU](https://www.mmlab-ntu.com/), fortunate to be supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/).
 
-My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **Foundation Models** (Multimodal LLMs, Benchmarking and Evaluation).
+I was a Founding Team Member at [Synvo AI](https://synvo.ai/). Prior to this, I was a Core Contributor at [LMMs-Lab](https://www.lmms-lab.com/), where I was on an exciting journey towards Large Multimodal Models and feeling the AGI. I have received kind and valuable guidance from [Yuanhan Zhang](https://zhangyuanhan-ai.github.io/), [Bo Li](https://www.brianboli.com/inside/), and [Jingkang Yang](https://jingkangyang.com/). I received my B.Eng. in Computer Science from Nanyang Technological University in 2024 with First Class Honours (Highest Distinction).
+
+My research focuses on **agents**, **multimodal models**, and **egocentric AI**.
 
 📧 &nbsp; Feel free to reach me at [HUKA0001@e.ntu.edu.sg](mailto:HUKA0001@e.ntu.edu.sg).
 
@@ -21,8 +23,8 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 <div class="news-scroll" markdown="1">
 - *2026.06*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is accepted to **ECCV 2026**. Congrats to all coauthors!
 - *2026.04*: &nbsp; One paper accepted to **ACL 2026** Main Conference ([Video-MMMU](https://aclanthology.org/2026.acl-long.1281/)).
+- *2026.04*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
 - *2026.03*: &nbsp; [**HippoCamp**](https://hippocamp-ai.github.io/) is out — we collected 3 real people's entire digital lives to build the first file-system memory dataset.
-- *2026.02*: &nbsp; Released [**FileGram**](https://filegram.choiszt.com/) — a privacy-first AI memory layer.
 - *2026.02*: &nbsp; One paper accepted to **CVPR 2026** ([OpenMMReasoner](https://cvpr.thecvf.com/virtual/2026/poster/38636)).
 - *2026.01*: &nbsp; New blog post at **Synvo AI** — [*The Digital Avalanche: Building the Memory Layer for Next-Gen Corporation AI Agents*](https://synvo.ai/blog/digital-avalanche.html).
 - *2025.04*: &nbsp; [**Aero-1-Audio**](https://github.com/EvolvingLMMs-Lab/Aero-1) — our first generation of lightweight audio models, outperforming Whisper and Qwen-2-Audio.
@@ -46,9 +48,9 @@ My research focuses on **Agent Systems** (Agent Memory, Agentic RL, RAG) and **F
 
 <p class="pub-venue">ACL 2026 (Main)</p>
 
-<p class="pub-links"><a href="https://aclanthology.org/2026.acl-long.1281/">Paper</a> <a href="https://videommmu.github.io/">Project</a> <a href="https://github.com/EvolvingLMMs-Lab/VideoMMMU">GitHub</a> <a href="https://huggingface.co/datasets/lmms-lab/VideoMMMU">🤗 Data</a></p>
+<p class="pub-links"><a href="https://aclanthology.org/2026.acl-long.1281/"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://videommmu.github.io/"><i class="fa-solid fa-globe"></i> Project</a> <a href="https://github.com/EvolvingLMMs-Lab/VideoMMMU"><i class="fa-brands fa-github"></i> GitHub</a> <a href="https://huggingface.co/datasets/lmms-lab/VideoMMMU">🤗 Data</a></p>
 
-**TL;DR:** A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
+A video reasoning benchmark for LMMs, evaluating knowledge acquisition from multi-discipline professional videos. Featured in OpenAI GPT-5 and Google Gemini 3.0 official releases. Adopted by Google DeepMind, OpenAI, Alibaba, ByteDance, and many others.
 </div>
 </div>
 
@@ -62,9 +64,9 @@ Kaichen Zhang, Keming Wu, Zuhao Yang, Bo Li, **Kairui Hu**, Bin Wang, Ziwei Liu,
 
 <p class="pub-venue">CVPR 2026</p>
 
-<p class="pub-links"><a href="https://cvpr.thecvf.com/virtual/2026/poster/38636">Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/OpenMMReasoner">GitHub</a></p>
+<p class="pub-links"><a href="https://cvpr.thecvf.com/virtual/2026/poster/38636"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/OpenMMReasoner"><i class="fa-brands fa-github"></i> GitHub</a></p>
 
-**TL;DR:** An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
+An open and general recipe for pushing the frontiers of multimodal reasoning, achieving strong performance across comprehensive multimodal reasoning benchmarks.
 </div>
 </div>
 
@@ -78,25 +80,9 @@ Zhe Yang, Shulin Tian, **Kairui Hu**, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang,
 
 <p class="pub-venue">ECCV 2026</p>
 
-<p class="pub-links"><a href="https://arxiv.org/abs/2604.01221">Paper</a> <a href="https://hippocamp-ai.github.io/">Project</a> <a href="https://github.com/synvo-ai/HippoCamp">Code</a> <a href="https://huggingface.co/datasets/MMMem-org/HippoCamp">🤗 Data</a></p>
+<p class="pub-links"><a href="https://arxiv.org/abs/2604.01221"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://hippocamp-ai.github.io/"><i class="fa-solid fa-globe"></i> Project</a> <a href="https://github.com/synvo-ai/HippoCamp"><i class="fa-brands fa-github"></i> Code</a> <a href="https://huggingface.co/datasets/MMMem-org/HippoCamp">🤗 Data</a></p>
 
-**TL;DR:** A benchmark for contextual agents on personal computers, built from three real users' complete digital lives — the first file-system memory dataset.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/filegram.png' alt="FileGram" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**FileGram: Grounding Agent Personalization in File-System Behavioral Traces**](https://filegram.choiszt.com/)
-
-Shuai Liu, Shulin Tian, **Kairui Hu**, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy, Ziwei Liu
-
-<p class="pub-venue">arXiv 2026</p>
-
-<p class="pub-links"><a href="https://arxiv.org/abs/2604.04901">Paper</a> <a href="https://filegram.choiszt.com/">Project</a> <a href="https://github.com/Synvo-ai/FileGram">Code</a> <a href="https://huggingface.co/datasets/Choiszt/FileGram">🤗 Data</a></p>
-
-**TL;DR:** Grounding agent personalization in file-system behavioral traces — a privacy-first AI memory layer learned from how you actually use your files.
+A benchmark for contextual agents on personal computers, built from three real users' complete digital lives — the first file-system memory dataset.
 </div>
 </div>
 
@@ -110,12 +96,29 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 
 <p class="pub-venue">NAACL 2025 (Findings)</p>
 
-<p class="pub-links"><a href="https://aclanthology.org/2025.findings-naacl.51/">Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/lmms-eval">GitHub</a></p>
+<p class="pub-links"><a href="https://aclanthology.org/2025.findings-naacl.51/"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://github.com/EvolvingLMMs-Lab/lmms-eval"><i class="fa-brands fa-github"></i> GitHub</a></p>
 
-**TL;DR:** A One-for-All Multimodal Evaluation Toolkit across Text, Image, Video, and Audio tasks — a one-command framework that makes LMM evaluation easier, more convenient, and reproducible. Widely adopted across the GenAI community for model development and benchmarking.
+A One-for-All Multimodal Evaluation Toolkit across Text, Image, Video, and Audio tasks — a one-command framework that makes LMM evaluation easier, more convenient, and reproducible. Widely adopted across the GenAI community for model development and benchmarking.
 </div>
 </div>
 
+
+# Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/filegram.png' alt="FileGram" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**FileGram: Grounding Agent Personalization in File-System Behavioral Traces**](https://filegram.choiszt.com/)
+
+Shuai Liu, Shulin Tian, **Kairui Hu**, Yuhao Dong, Zhe Yang, Bo Li, Jingkang Yang, Chen Change Loy, Ziwei Liu
+
+<p class="pub-venue">Preprint, arXiv 2026</p>
+
+<p class="pub-links"><a href="https://arxiv.org/abs/2604.04901"><i class="fa-solid fa-file-lines"></i> Paper</a> <a href="https://filegram.choiszt.com/"><i class="fa-solid fa-globe"></i> Project</a> <a href="https://github.com/Synvo-ai/FileGram"><i class="fa-brands fa-github"></i> Code</a> <a href="https://huggingface.co/datasets/Choiszt/FileGram">🤗 Data</a></p>
+
+Grounding agent personalization in file-system behavioral traces — a privacy-first AI memory layer learned from how you actually use your files.
+</div>
+</div>
 
 # Software
 
@@ -124,9 +127,9 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, **Kairui H
 
 [**Local Cocoa**](https://github.com/synvo-ai/local-cocoa)
 
-<p class="pub-links"><a href="https://github.com/synvo-ai/local-cocoa">Code</a> <a href="https://www.synvo.ai/">Website</a></p>
+<p class="pub-links"><a href="https://github.com/synvo-ai/local-cocoa"><i class="fa-brands fa-github"></i> Code</a></p>
 
-**TL;DR:** A privacy-focused local AI assistant that turns your files into searchable semantic memory — running entirely on your device.
+A privacy-focused local AI assistant that turns your files into searchable semantic memory — running entirely on your device.
 </div>
 </div>
 
