@@ -107,6 +107,82 @@
     opacity: 1 !important;
     transform: none !important;
   }
+
+  /* ===== Cute cat + vibe status, sitting by the News title ===== */
+  .page__content h1 .news-cat {
+    position: absolute;
+    right: 2px;
+    bottom: -6px;
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 9px;
+    font-weight: 400;
+    pointer-events: none;
+  }
+  .news-cat .cat-svg {
+    width: 44px;
+    height: 44px;
+    flex: 0 0 auto;
+    display: block;
+    cursor: pointer;
+    pointer-events: auto;
+  }
+  .news-cat .cat-bubble {
+    max-width: 220px;
+    white-space: nowrap;
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    color: #6b6660;
+    background: #fffdf9;
+    border: 1px solid #ece7dd;
+    border-radius: 12px;
+    padding: 5px 11px;
+    margin-bottom: 8px;
+    box-shadow: 0 6px 16px rgba(80, 60, 40, 0.10);
+    position: relative;
+    opacity: 0;
+    transform: translateY(5px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  .news-cat .cat-bubble.show { opacity: 1; transform: none; }
+  .news-cat .cat-bubble::after {
+    content: "";
+    position: absolute;
+    right: -5px;
+    bottom: 10px;
+    width: 8px;
+    height: 8px;
+    background: #fffdf9;
+    border-right: 1px solid #ece7dd;
+    border-bottom: 1px solid #ece7dd;
+    transform: rotate(-45deg);
+  }
+  .news-cat .cat-body {
+    transform-box: fill-box;
+    transform-origin: 50% 100%;
+    animation: catBreathe 3.4s ease-in-out infinite;
+  }
+  .news-cat .cat-tail {
+    transform-box: fill-box;
+    transform-origin: 12% 88%;
+    animation: catTail 2.8s ease-in-out infinite;
+  }
+  @keyframes catBreathe { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.965); } }
+  @keyframes catTail { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(9deg); } }
+  .news-cat .cat-svg.bounce { animation: catBounce 0.5s ease; }
+  @keyframes catBounce {
+    0% { transform: translateY(0); }
+    30% { transform: translateY(-7px); }
+    55% { transform: translateY(0); }
+    70% { transform: translateY(-3px); }
+    100% { transform: translateY(0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .news-cat .cat-body, .news-cat .cat-tail { animation: none; }
+  }
+  @media (max-width: 520px) { .news-cat .cat-bubble { display: none; } }
 </style>
 
 <script>
