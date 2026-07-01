@@ -70,6 +70,7 @@ exclude:
   - .github
   - CHANGELOG
   - Capfile
+  - HANDOFF.md
   - Gemfile
   - Gruntfile.js
   - LICENSE
