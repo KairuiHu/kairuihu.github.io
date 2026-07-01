@@ -18,6 +18,9 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# webrick was removed from Ruby 3.0+ stdlib; needed for local `jekyll serve` preview.
+gem "webrick", "~> 1.8"
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
