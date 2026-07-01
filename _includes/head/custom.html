@@ -90,6 +90,36 @@
     transition: background 0.15s ease, color 0.15s ease;
   }
   .paper-box-text .pub-links a:hover { background: #6d8436; color: #fff; }
+
+  /* ===== Apple-style scroll reveal (only active when .reveal-on is set) ===== */
+  .reveal-on .page__content > h1,
+  .reveal-on .page__content > p,
+  .reveal-on .page__content > .paper-box,
+  .reveal-on .page__content > .news-scroll,
+  .reveal-on .page__content > ul {
+    opacity: 0;
+    transform: translateY(26px);
+    transition: opacity 0.7s cubic-bezier(0.2, 0.65, 0.25, 1),
+                transform 0.7s cubic-bezier(0.2, 0.65, 0.25, 1);
+    will-change: opacity, transform;
+  }
+  .reveal-on .page__content > .in-view {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 </style>
+
+<script>
+  /* Enable scroll-reveal only when supported and motion is allowed — otherwise
+     content is never hidden (no reliance on JS to show it). */
+  (function () {
+    try {
+      if ("IntersectionObserver" in window &&
+          !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+        document.documentElement.classList.add("reveal-on");
+      }
+    } catch (e) {}
+  })();
+</script>
 
 <!-- end custom head snippets -->

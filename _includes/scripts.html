@@ -1,4 +1,23 @@
 <script src="assets/js/main.min.js"></script>
 
+<!-- Apple-style scroll reveal: fade + rise sections as they enter the viewport -->
+<script>
+(function () {
+  var root = document.documentElement;
+  if (!root.classList.contains("reveal-on")) return;
+  var sel = ".page__content > h1, .page__content > p, .page__content > .paper-box, .page__content > .news-scroll, .page__content > ul";
+  var els = [].slice.call(document.querySelectorAll(sel));
+  if (!els.length) return;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (en) {
+      if (en.isIntersecting) { en.target.classList.add("in-view"); io.unobserve(en.target); }
+    });
+  }, { threshold: 0.06, rootMargin: "0px 0px -6% 0px" });
+  els.forEach(function (e) { io.observe(e); });
+  // Safety net: reveal everything after 3.5s regardless.
+  setTimeout(function () { els.forEach(function (e) { e.classList.add("in-view"); }); }, 3500);
+})();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
