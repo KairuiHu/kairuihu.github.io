@@ -120,12 +120,14 @@
     pointer-events: none;
   }
   .news-cat .cat-svg {
-    width: 44px;
-    height: 44px;
+    width: auto;
+    height: 48px;
     flex: 0 0 auto;
     display: block;
     cursor: pointer;
     pointer-events: auto;
+    -webkit-user-drag: none;
+    user-select: none;
   }
   .news-cat .cat-bubble {
     max-width: 220px;
@@ -159,18 +161,6 @@
     border-bottom: 1px solid #ece7dd;
     transform: rotate(-45deg);
   }
-  .news-cat .cat-body {
-    transform-box: fill-box;
-    transform-origin: 50% 100%;
-    animation: catBreathe 3.4s ease-in-out infinite;
-  }
-  .news-cat .cat-tail {
-    transform-box: fill-box;
-    transform-origin: 6% 92%;
-    animation: catTail 1.4s ease-in-out infinite;
-  }
-  @keyframes catBreathe { 0%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.965); } }
-  @keyframes catTail { 0%, 100% { transform: rotate(-6deg); } 50% { transform: rotate(15deg); } }
   .news-cat .cat-svg.bounce { animation: catBounce 0.5s ease; }
   @keyframes catBounce {
     0% { transform: translateY(0); }

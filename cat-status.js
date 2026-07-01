@@ -1,23 +1,8 @@
-// cat-status.js — a cute cat that sits by the News title and shows a vague, time-of-day "vibe".
-// Click the cat to re-roll the vibe. Purely decorative; no concrete activity is exposed.
-(function catStatus() {
-  // 线条小狗 — minimalist line-art puppy with a little tuft (呆毛)
-  const CAT_SVG =
-    '<svg class="cat-svg" viewBox="0 0 64 64" role="img" aria-label="a little dog">' +
-    '<path class="cat-tail" d="M43,42 q9,-1 8,-9" fill="none" stroke="#4a4640" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>' +
-    '<g class="cat-body" fill="none" stroke="#4a4640" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">' +
-    '<path d="M31,11 q1.5,-5 4,-2 q1.5,2 -1,3.5"/>' +               // tuft
-    '<path d="M22,17 q-8,1 -7,11 q0.6,5 5.5,4.5"/>' +               // ear L
-    '<path d="M42,17 q8,1 7,11 q-0.6,5 -5.5,4.5"/>' +               // ear R
-    '<path d="M21,24 q0,-12 11,-12 q11,0 11,12 q0,8 -11,8 q-11,0 -11,-8 Z"/>' + // head
-    '<circle cx="27.5" cy="23" r="1.6" fill="#4a4640" stroke="none"/>' +
-    '<circle cx="36.5" cy="23" r="1.6" fill="#4a4640" stroke="none"/>' +
-    '<ellipse cx="32" cy="27.5" rx="1.9" ry="1.4" fill="#4a4640" stroke="none"/>' +
-    '<path d="M32,29 q-2.5,3 -4.5,0.8"/>' +                          // mouth L
-    '<path d="M32,29 q2.5,3 4.5,0.8"/>' +                            // mouth R
-    '<path d="M24,32 q-4,8 -3,17 q0.7,4 11,4 q10.3,0 11,-4 q1,-9 -3,-17"/>' + // body
-    '<path d="M28,52.5 l0,3.5"/><path d="M36,52.5 l0,3.5"/>' +       // paws
-    '</g></svg>';
+// cat-status.js — a cute puppy that sits by the News title with a vague, time-of-day "vibe".
+// Static by default; animates only while hovered. Click to re-roll the vibe.
+(function petStatus() {
+  const STILL = "/images/dog_still.png"; // static first frame
+  const ANIM = "/images/dog.webp";       // animated, transparent bg
 
   // Vague, chill vibes — deliberately non-specific (no "coding"/"papers").
   const weekend = ["fully offline", "touching grass", "in airplane mode", "recharging", "somewhere quiet"];
@@ -46,12 +31,17 @@
 
     const wrap = document.createElement("span");
     wrap.className = "news-cat";
-    wrap.innerHTML = '<span class="cat-bubble"></span>' + CAT_SVG;
+    wrap.innerHTML =
+      '<span class="cat-bubble"></span>' +
+      '<img class="cat-svg" src="' + STILL + '" alt="a little dog" draggable="false">';
     title.appendChild(wrap);
 
     const bubble = wrap.querySelector(".cat-bubble");
-    const svg = wrap.querySelector(".cat-svg");
+    const pet = wrap.querySelector(".cat-svg");
     let lastMsg = "";
+
+    // preload the animation so hover is instant
+    const pre = new Image(); pre.src = ANIM;
 
     function say() {
       let msg = pick(currentList());
@@ -61,15 +51,20 @@
       setTimeout(() => { bubble.textContent = msg; bubble.classList.add("show"); }, 180);
     }
 
-    setTimeout(say, 600);
-    const timer = setInterval(say, 12000);
+    // animate only on hover
+    pet.addEventListener("mouseenter", () => { pet.src = ANIM; });
+    pet.addEventListener("mouseleave", () => { pet.src = STILL; });
 
-    svg.addEventListener("click", () => {
-      svg.classList.remove("bounce");
-      void svg.offsetWidth; // restart animation
-      svg.classList.add("bounce");
+    // click: bounce + new vibe
+    pet.addEventListener("click", () => {
+      pet.classList.remove("bounce");
+      void pet.offsetWidth;
+      pet.classList.add("bounce");
       say();
     });
+
+    setTimeout(say, 600);
+    setInterval(say, 12000);
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start);
