@@ -10,12 +10,12 @@
   if (!els.length) return;
   var io = new IntersectionObserver(function (entries) {
     entries.forEach(function (en) {
-      if (en.isIntersecting) { en.target.classList.add("in-view"); io.unobserve(en.target); }
+      // Toggle both ways so the animation replays every time an element re-enters view.
+      if (en.isIntersecting) en.target.classList.add("in-view");
+      else en.target.classList.remove("in-view");
     });
-  }, { threshold: 0.06, rootMargin: "0px 0px -6% 0px" });
+  }, { threshold: 0.06, rootMargin: "0px 0px -8% 0px" });
   els.forEach(function (e) { io.observe(e); });
-  // Safety net: reveal everything after 3.5s regardless.
-  setTimeout(function () { els.forEach(function (e) { e.classList.add("in-view"); }); }, 3500);
 })();
 </script>
 
