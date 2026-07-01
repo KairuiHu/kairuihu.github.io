@@ -63,7 +63,15 @@
       say();
     });
 
-    setTimeout(say, 600);
+    // Show a vibe immediately on load — no hover needed. First paint skips the
+    // brief hide-then-show so the text is up right away; later re-rolls fade.
+    function sayNow() {
+      let msg = pick(currentList());
+      lastMsg = msg;
+      bubble.textContent = msg;
+      requestAnimationFrame(() => bubble.classList.add("show"));
+    }
+    sayNow();
     setInterval(say, 12000);
   }
 
