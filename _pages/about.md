@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Kairui Hu, currently a Research Manager at [NTU](https://www.ntu.edu.sg/).
+I am Kairui Hu, currently a Ph.D. student at [CCDS, NTU](https://www.ntu.edu.sg/computing), fortunate to be supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/). I am also an AI Scientist at [Ropedia](https://ropedia.com/).
 
 I was a Founding Team Member at [Synvo AI](https://synvo.ai/), supervised by [Prof. Chen Change Loy](https://scholar.google.com.sg/citations?user=559LF80AAAAJ&hl=en). Prior to this, I was a Core Contributor at [LMMs-Lab](https://www.lmms-lab.com/), where I was on an exciting journey towards Large Multimodal Models and feeling the AGI. I have received kind and valuable guidance from [Yuanhan Zhang](https://zhangyuanhan-ai.github.io/), [Bo Li](https://www.brianboli.com/inside/), and [Jingkang Yang](https://jingkangyang.com/). I received my B.Eng. in Computer Science from Nanyang Technological University in 2024 with First Class Honours (Highest Distinction).
 
