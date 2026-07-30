@@ -2,6 +2,8 @@
 title                    : "Kairui Hu"
 description              : "Research in Agent Systems and Foundation Models."
 repository               : "KairuiHu/kairuihu.github.io"
+url                      : "https://kairuihu.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
